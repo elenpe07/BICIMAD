@@ -1,0 +1,5 @@
+---INSTRUCCIONES---
+El programa se ejecuta en la terminal escribiendo 'python3 Bicimad_.py' teniendo 
+el archivo '202102_movements.json' en la misma carpeta que se encuentre Bicimad_.py
+
+
